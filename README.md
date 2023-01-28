@@ -1,4 +1,4 @@
-# Leetcod camp
+# Leetcode camp
 
 A place to practice Leetcode
 
@@ -16,5 +16,5 @@ cargo new --vcs none problem/l0001_two_sum
 
 | Date    | Problem    | Summary    |
 |---------------- | --------------- | --------------- |
-| 2023-01-28    | Two sum    | HashMap    |
+| 2023-01-28    | [Two sum](https://github.com/datavadoz/leetcode/tree/main/problem/l0001_two_sum)    | HashMap    |
 
