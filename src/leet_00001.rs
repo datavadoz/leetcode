@@ -14,8 +14,8 @@ impl Solution {
     /// Time: O(n^2) | Space: O(1)
     pub fn two_sum_1(nums: Vec<i32>, target: i32) -> Vec<i32> {
         let nums_len = nums.len();
-        for i in 0..nums_len-1 {
-            for j in i+1..nums_len {
+        for i in 0..nums_len - 1 {
+            for j in i + 1..nums_len {
                 if nums[i] + nums[j] == target {
                     return vec![i as i32, j as i32];
                 }
